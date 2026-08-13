@@ -82,19 +82,21 @@
   <li>ออกแบบ Front-End ด้วย React.js และ Tailwind CSS แสดงผลภาพบน Dashboard แบบสด พร้อมพิกัดตำแหน่งบนแผนที่จำลอง</li>
   <li>สร้างระบบหลังบ้านด้วย Node.js และ WebSockets เชื่อมโยงข้อมูลแบบ Low Latency</li>
 </ul>
+
 <h4>02. เว็บแอปพลิเคชันคัดแยกขยะอัจฉริยะ</h4>
 <p><code>Python</code> <code>Gradio</code> <code>YOLO</code> <code>OpenCV</code></p>
 <ul>
   <li>ฝึกสอนโมเดล Object Classification เพื่อคัดแยกประเภทขยะรีไซเคิลและขยะทั่วไป</li>
   <li>พัฒนาส่วนหน้าจอผู้ใช้งานด้วย Gradio รองรับการอัปโหลดรูปภาพเพื่อประมวลผลคำแนะนำการแยกขยะแบบอัตโนมัติ</li>
 </ul>
+
 <h4>03. ระบบจัดการข้อมูลพนักงาน</h4>
 <p><code>Flask</code> <code>Python</code> <code>MySQL</code> <code>HTML/CSS</code></p>
 <ul>
   <li>ออกแบบและพัฒนาบริการหลังบ้านด้วย Flask ร่วมกับฐานข้อมูลเชิงสัมพันธ์ MySQL รองรับ CRUD เต็มรูปแบบ</li>
   <li>ออกแบบโครงสร้างฐานข้อมูล จัดการความสัมพันธ์ตาราง และเขียนคำสั่ง SQL Query รวมถึงการ JOIN ตาราง</li>
 </ul>
-
+    
 ---
 
 ### 🏆 กิจกรรมและการแข่งขัน
@@ -105,16 +107,6 @@
 ภายใต้โจทย์แข่งขัน **"Defense Innovations"**
 
 ---
-
-### 📫 ติดต่อฉัน
-
-<p align="center">
-  <a href="mailto:amnartp60@gmail.com"><img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/3lack55"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Phone-374151?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</p>
-
-<p align="center">📍 นครราชสีมา, ประเทศไทย</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:374151,100:1F2937&height=90&section=footer" width="100%" />
